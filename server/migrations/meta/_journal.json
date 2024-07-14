@@ -1,0 +1,104 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1718509601005,
+      "tag": "0000_cuddly_unus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1718513317797,
+      "tag": "0001_zippy_salo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1718520872826,
+      "tag": "0002_careful_yellow_claw",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1718526305404,
+      "tag": "0003_tense_toro",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1718527088138,
+      "tag": "0004_high_the_initiative",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1718528408605,
+      "tag": "0005_premium_giant_girl",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1718551529116,
+      "tag": "0006_glossy_lady_ursula",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1718638218634,
+      "tag": "0007_old_boomer",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1718689968062,
+      "tag": "0008_eager_nebula",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1718773446881,
+      "tag": "0009_right_turbo",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1718798872480,
+      "tag": "0010_useful_martin_li",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1718803215533,
+      "tag": "0011_brave_the_leader",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1718803382024,
+      "tag": "0012_stormy_zombie",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1718810640948,
+      "tag": "0013_dark_kang",
+      "breakpoints": true
+    }
+  ]
+}
